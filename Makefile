@@ -10,7 +10,7 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o index.html
+	python resume.py html --no-gravatar < $< | pandoc -t html -c "../stylesheets/styles.css" -o index.html
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
