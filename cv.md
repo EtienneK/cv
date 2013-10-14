@@ -126,7 +126,7 @@
     -   Received academic colours and various other academic awards
 
 
-## Aditional Information
+## Additional Information
 
 *   Date of Birth:
     -   April 6, 1984
