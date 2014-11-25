@@ -12,19 +12,33 @@
 
 ## Work Experience
 
-*   **Senior Software Engineer**, October 2012 — Present
+*   **Technical Solution Designer**, March 2014 — Current
+
+    **Standard Bank** (Johannesburg, South Africa)
+    
+    My role as Technical Solution Designer requires me to perform technical solution analysis and design and document IT system solution designs by interpreting business requirements and IT system architectures within the Bank.
+	
+	Some of my roles and responsibilities include the following:
+	
+	-	To ensure strategic alignment of the technical solution design with business, IT and technology architecture, technical solution design blueprints, business requirements, service level agreements, release management and SOA requirements.
+	
+	-	Full technical responsibility for all aspects of all technical system analysis, specification and design by analysing, modelling, documenting and communicating the relevant technical solution design artefacts.
+	
+	-	Participate in cost benefit analysis and risk analysis to take account of technical solution design decisions.
+
+*   **Senior Software Engineer**, October 2012 — February 2014
 
     **Entelect Software** (Johannesburg, South Africa)
     
-    I am currently working as a consultant at Entelect Software. The client projects I have been part of thus far are:
+    Worked as a consultant at Entelect Software on various projects:
     
-    -   First National Bank (December 2012 — Present) — Currently working on site at FNB's Core Banking Solutions (CBS) division. 
+    -   First National Bank (December 2012 — February 2014) — Worked on site at FNB's Core Banking Solutions (CBS) division. 
     
-        I am part of the team rewriting FNB's Smart Devices system. Once completed, this system will be responsible for the entire order, delivery and tracking processes of FNB's Smart Devices division.
+        I was part of the team responsible for rewriting FNB's entire Smart Devices system. The purpose of this system was to drive the entire order, delivery and tracking processes of FNB's Smart Devices division.
         
-        Previously I was responsible for designing and developing an in-house workflow system. This workflow system is now being used by most of the new projects being developed in CBS.
+        I was also responsible for designing and developing an in-house workflow system. This workflow system became the basis of most of the new projects being developed at CBS.
     
-        Technologies I am using in this project: Java EE; JBOSS AS 7; Maven; Hibernate; JAX-WS; CDI; EJB; JPA; JTA; JSF; MS SQL Server 2008; Subversion (SVN).
+        Technologies I’ve used in this project: Java EE; JBOSS AS 7; Maven; Hibernate; JAX-WS; CDI; EJB; JPA; JTA; JSF; MS SQL Server 2008; Subversion (SVN).
     
     -   Momentum Multiply (October 2012 — December 2012) — Designed and developed a back end rewards vouchering system for Momentum Multiply. The system enabled Momentum Multiply's customers to purchase Woolworths vouchers at a discounted rate based on reward tier levels.
     
@@ -88,13 +102,7 @@
 
     I worked as a tutor and assistant in the Computer Science, Informatics and Mathematics departments. I helped other students understand the work, gave tutorial sessions and graded tests, exams and assignments.
 
-*   **Junior Developer**, 2003 — 2006 (Holidays)
-
-    **DetNet** (Modderfontein, South Africa)
-
-    Worked part-time during the holidays as a developer. I designed, developed and implemented a storeroom database system using PHP and PostgreSQL.
-
-
+	
 ## Education
 
 *   **BSc. Information Technology Honours**, 2006
