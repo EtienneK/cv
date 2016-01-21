@@ -12,19 +12,19 @@
 
 ## Work Experience
 
-*   **Technical Solution Designer**, March 2014 — Current
+*   **Solutions Architect**, March 2014 — Current
 
     **Standard Bank** (Johannesburg, South Africa)
     
-    My role as Technical Solution Designer requires me to perform technical solution analysis and design and document IT system solution designs by interpreting business requirements and IT system architectures within the Bank.
-	
-	Some of my roles and responsibilities include the following:
-	
-	-	To ensure strategic alignment of the technical solution design with business, IT and technology architecture, technical solution design blueprints, business requirements, service level agreements, release management and SOA requirements.
-	
-	-	Full technical responsibility for all aspects of all technical system analysis, specification and design by analysing, modelling, documenting and communicating the relevant technical solution design artefacts.
-	
-	-	Participate in cost benefit analysis and risk analysis to take account of technical solution design decisions.
+    I am currently working as a Solutions Architect at Standard Bank. This role requires me to find solutions to complex business and technical problems on a daily basis. During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
+    
+    -   Helped architect and design a bill-payment solution for all corporate clients accross Africa. 
+    -   Was the lead Technical Designer for the core banking application replacement in Zambia.
+    -   Currently part of a feature team to rethink, redesign and reimplement the entire home loans selling process. 
+    
+    Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; conceptual, logical and physical technical design; software development; prototyping of new technologies and processes (example: DevOps); mentoring of junior team members.
+    
+    Examples of some technologies I’ve used in this role: Java; Spring Boot Framework; IBM DB2; Chef Configuration Management; Atlassian Bamboo; Atlassian Stash; Git; Node.js; JavaScript; Sparx Enterprise Architect.
 
 *   **Senior Software Engineer**, October 2012 — February 2014
 
