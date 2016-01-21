@@ -18,11 +18,11 @@
     
     I am currently working as a Solutions Architect at Standard Bank. This role requires me to find solutions to complex business and technical problems on a daily basis. During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
     
-    -   Helped architect and design a bill-payment solution for all corporate clients accross Africa. 
+    -   Helped architect and design a bill-payment solution for all corporate clients across Africa. 
     -   Was the lead Technical Designer for the core banking application replacement in Zambia.
     -   Currently part of a feature team to rethink, redesign and reimplement the entire home loans selling process. 
     
-    Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; conceptual, logical and physical technical design; software development; prototyping of new technologies and processes (example: DevOps); mentoring of junior team members.
+    Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; conceptual-, logical- and physical technical design; software development; prototyping of new technologies and processes (example: DevOps); mentoring of junior team members.
     
     Examples of some technologies I’ve used in this role: Java; Spring Boot Framework; IBM DB2; Chef Configuration Management; Atlassian Bamboo; Atlassian Stash; Git; Node.js; JavaScript; Sparx Enterprise Architect.
 
@@ -72,15 +72,15 @@
     
     I was accepted into Standard Bank Corporate and Investment Banking’s information technology graduate trainee program. The program took me through different areas within the bank’s IT department. I was also selected as one of the top 3 best performing IT graduates and was awarded the opportunity to go and work in Standard Bank’s São Paulo branch for 3 months.
     
-    The different areas I’ve worked in and the skills I’ve used and learned were:
+    The different areas I’ve worked in were:
 
-    -   Back Office Calypso Programme — I worked as a Java developer on the Calypso back office settlement system. Tasks consisted of fixing bugs, adding new functionality and configuring Ant scripts. I also did some business analysis and had to test and document the Calypso system to see if it could replace the bank’s call accounts system.
+    -   Back Office Calypso Programme — I worked as a Java developer on the Calypso back office settlement system. 
     
-    -   Technology Infrastructure Group — I was part of the Microsoft SQL Server team where I developed SQL scripts and did general database management tasks. I also developed a web based application in PHP and MySQL that was used to record and monitor different metrics within the department.
+    -   Technology Infrastructure Group — I was part of the Microsoft SQL Server team where I developed SQL scripts and did general database management tasks.
     
-    -   Front Office Alchemy Programme — I worked as a Java developer on the Alchemy front office trading system. I helped to fix bugs and implement new functionality using Hibernate and other Java technologies.
+    -   Front Office Alchemy Programme — I worked as a Java developer on the Alchemy front office trading system.
     
-    -   São Paulo — One of the two main tasks I’ve had during my stay in Brazil was to develop a simple cash transfer system using Visual Basic Application scripting and Excel. My other main task was to analyse and document an existing system that they wanted to replace with a new one.
+    -   São Paulo — One of the two main tasks I’ve had during my stay in Brazil was to develop a simple cash transfer system using Visual Basic Application scripting and Excel.
 
     Notable Achievements:
 
@@ -130,15 +130,11 @@
     -   April 6, 1984
 *   Nationality:
     -   South African
-*   Gender:
-    -   Male
 *   Marital Status:
     -   Married
 *   Languages:
     -   Afrikaans — Mother tongue
     -   English — Fluent written and spoken
-*   Driving Licence:
-    -   Yes
 *   Health:
     -   Excellent
 
