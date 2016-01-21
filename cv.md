@@ -56,25 +56,15 @@
 
     Technologies I’ve used in this role:  C#; MS Visual Studio 2010; MS SQL Server; WCF; MVC 3; Java SE; SOAP UI; Java ME for Nokia and Blackberry devices; Java for Android devices; C++ for Samsung Bada and Nokia Qt-compatible devices; C# for Windows Phone 7 devices; Mercurial; MS Team Foundation Server (TFS).
 
-*   **Team Lead**, October 2009 — June 2010
+*   **Calyspo Java Developer and Team Lead**, September 2008 — June 2010
 
     **Standard Bank CIB** (Johannesburg, South Africa)
     
-    Was the team lead of the Calypso South Africa change-the-bank team.
+    Worked my way up to a Java development team lead position of the Calypso Settlement System South Africa change-the-bank team. Business area focus was on South African money markets and cash management. 
 
     Tasks that I was responsible for were: Java development; configuration of Calypso; identifying and implementing quality coding processes; assisting project management in the planning process; assisting business analysts with requirements gathering; communicating with users; recruitment of new team members; facilitating communication with the wider project team.
     
     Technologies I’ve used in this role: Java SE; Eclipse; Ant; Maven; CVS; Unix (Solaris); IBM MQ; Oracle SQL; Calypso.
-
-*   **Calypso Java Developer**, September 2008 — September 2009
-
-    **Standard Bank CIB** (Johannesburg, South Africa)
-    
-    Worked as a Java developer on the Calypso back office settlement system.
-    
-    During my role as a Java developer, I’ve worked on three different projects. All three of them had the same common goal of moving business functionality off of old legacy systems onto Calypso. The first project involved the migration of cash management functionality, while the second and third projects involved the migration of South African money market products.
-    
-    Technologies I’ve used in this role: Java SE; Eclipse; Ant; CVS; Unix (Solaris); IBM MQ; Oracle SQL; Calypso.
 
 *   **Graduate Trainee**, February 2007 — August 2008
 
