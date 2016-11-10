@@ -12,19 +12,19 @@
 
 ## Work Experience
 
-*   **Solutions Architect**, March 2014 — Current
+*   **Senior Software Engineer**, March 2014 — Current
 
     **Standard Bank** (Johannesburg, South Africa)
     
-    I am currently working as a Solutions Architect at Standard Bank. This role requires me to find solutions to complex business and technical problems on a daily basis. During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
+    I am currently working as a Senior Software Engineer at Standard Bank. This role requires me to find and implement solutions to complex business and technical problems on a daily basis. During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
     
+    -   Currently part of a feature team to rethink, redesign and reimplement the entire home loans- and cheque account opening processes.
     -   Helped architect and design a bill-payment solution for all corporate clients across Africa. 
     -   Was the lead Technical Designer for the core banking application replacement in Zambia.
-    -   Currently part of a feature team to rethink, redesign and reimplement the entire home loans selling process. 
     
     Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; conceptual-, logical- and physical technical design; software development; prototyping of new technologies and processes (example: DevOps); mentoring of junior team members.
     
-    Examples of some technologies I’ve used in this role: Java; Spring Boot Framework; IBM DB2; Chef Configuration Management; Atlassian Bamboo; Atlassian Stash; Git; Node.js; JavaScript; Sparx Enterprise Architect.
+    Examples of some technologies I’ve used in this role: Java 8; Spring Boot Framework; IBM DB2; Docker; Chef Configuration Management; Atlassian Bamboo; Atlassian Bitbucket; Git; Node.js; JavaScript; Sparx Enterprise Architect.
 
 *   **Senior Software Engineer**, October 2012 — February 2014
 
