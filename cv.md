@@ -12,7 +12,7 @@
 
 ## Work Experience
 
-*   **Senior Software Engineer**, March 2014 — Current
+*   **Solutions Architect for Digital Platforms**, March 2014 — Current
 
     **Standard Bank** (Johannesburg, South Africa)
     
