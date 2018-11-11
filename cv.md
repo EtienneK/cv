@@ -16,15 +16,19 @@
 
     **Standard Bank** (Johannesburg, South Africa)
     
-    I am currently working as a Senior Software Engineer at Standard Bank. This role requires me to find and implement solutions to complex business and technical problems on a daily basis. During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
+    I am currently working as a Solution Architect for Digital Platforms at Standard Bank — the largest bank in Africa. This role requires me to find and implement solutions to complex business and technical problems on a daily basis. I work with business and engineering to deliver executable architectures for digital products on mobile- and web platforms.
     
-    -   Currently part of a feature team to rethink, redesign and reimplement the entire home loans- and cheque account opening processes.
+    During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
+    
+    -   I am currently looking at ways to migrate our digital channels and services to the public- and private clouds.
+    -   Also, currently investigating single sign-on solutions for all digital channels using OAuth2 and OpenID Connect.
+    -   Was part of a feature team to rethink, redesign and reimplement the entire home loans- and cheque account opening processes.
     -   Helped architect and design a bill-payment solution for all corporate clients across Africa. 
     -   Was the lead Technical Designer for the core banking application replacement in Zambia.
     
-    Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; conceptual-, logical- and physical technical design; software development; prototyping of new technologies and processes (example: DevOps); mentoring of junior team members.
+    Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; developing executable architectures; conceptual-, logical- and physical technical design; software development; prototyping of new technologies and processes; mentoring of junior team members.
     
-    Examples of some technologies I’ve used in this role: Java 8; Spring Boot Framework; IBM DB2; Docker; Chef Configuration Management; Atlassian Bamboo; Atlassian Bitbucket; Git; Node.js; JavaScript; Sparx Enterprise Architect.
+    Examples of some technologies I’ve used in this role: Amazon Web Services (AWS); Microsoft Azure; RedHat OpenShift; Kubernetes; Java; Spring Boot Framework; IBM DB2; Docker; Chef Configuration Management; Atlassian Bamboo; Atlassian Bitbucket; Git; Node.js; JavaScript; Sparx Enterprise Architect.
 
 *   **Senior Software Engineer**, October 2012 — February 2014
 
@@ -90,7 +94,7 @@
 
     **University of Johannesburg** (Johannesburg, South Africa)
 
-    I worked as a tutor and assistant in the Computer Science, Informatics and Mathematics departments. I helped other students understand the work, gave tutorial sessions and graded tests, exams and assignments.
+    I worked as a tutor and assistant in the Computer Science, Informatics and Mathematics departments.
 
 	
 ## Education
@@ -118,7 +122,6 @@
 
     **Hoërskool Oosterlig** (Boksburg, South Africa)
 
-    -   Subjects (grades): Afrikaans First Language HG (B); English Second Language HG (A); Mathematics HG (A); Physics and Chemistry HG (B); Accountancy HG (A); Technical Drawings HG (B); Computer Studies HG (A)
     -   Passed with distinction
     -   Was awarded the prize for the best results in Computer Studies in matric
     -   Received academic colours and various other academic awards
@@ -135,8 +138,6 @@
 *   Languages:
     -   Afrikaans — Mother tongue
     -   English — Fluent written and spoken
-*   Health:
-    -   Excellent
 
 
 ## References
