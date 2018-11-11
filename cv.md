@@ -16,7 +16,7 @@
 
     **Standard Bank** (Johannesburg, South Africa)
     
-    I am currently working as a Solution Architect for Digital Platforms at Standard Bank — the largest bank in Africa. This role requires me to find and implement solutions to complex business and technical problems on a daily basis. I work with business and engineering to deliver executable architectures for digital products on mobile- and web platforms.
+    I am currently working as a Solutions Architect for Digital Platforms at Standard Bank — the largest bank in Africa. This role requires me to find and implement solutions to complex business and technical problems on a daily basis. I work with business and engineering to deliver executable architectures for digital products on mobile- and web platforms.
     
     During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
     
