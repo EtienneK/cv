@@ -60,7 +60,7 @@
 
     Technologies I’ve used in this role:  C#; MS Visual Studio 2010; MS SQL Server; WCF; MVC 3; Java SE; SOAP UI; Java ME for Nokia and Blackberry devices; Java for Android devices; C++ for Samsung Bada and Nokia Qt-compatible devices; C# for Windows Phone 7 devices; Mercurial; MS Team Foundation Server (TFS).
 
-*   **Calyspo Java Developer and Team Lead**, September 2008 — June 2010
+*   **Calypso Java Developer and Team Lead**, September 2008 — June 2010
 
     **Standard Bank CIB** (Johannesburg, South Africa)
     
