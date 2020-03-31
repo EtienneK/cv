@@ -9,7 +9,7 @@
 
 ### Run
 
-`docker container run -v $PWD:/cv etiennek/cv`
+`docker container run --rm -v $PWD:/cv etiennek/cv`
 
 ## Introduction
 

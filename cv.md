@@ -1,7 +1,7 @@
 # Etienne Koekemoer
 
 
-[me@etiennek.com](mailto:me@etiennek.com)          
+[me@etiennek.com](mailto:me@etiennek.com)
 [www.etiennek.com](http://www.etiennek.com)
 
 
@@ -12,23 +12,31 @@
 
 ## Work Experience
 
-*   **Solutions Architect for Digital Platforms**, March 2014 — Current
+*   **Solutions Architect - Identity**, August 2019 — Current
+
+    **Backbase** (Amsterdam, Netherlands)
+
+    I am currently a Solutions Architect for Backbase's Identity product. In this role I help big banking customers accelerate their digital banking transformation journeys by understanding their problems and challenges and coming up with solutions - primarily in the identity, authentication, user- and credential management domains. This requires me to analyse and understand a bank's current environment, set up and run technical workshops and create executable architectures and documentation on how the Backbase platform will fit into their landscape.
+
+    This role requires me to be active during pre- as well as post-sales customer engagements. For pre-sales I have been part of multiple customer workshops and meetings that resulted in high-value contracts for Backbase. Post-sales engagements have resulted in me helping the Backbase delivery teams accelerate the deployment of the Backbase platform for customers.
+
+*   **Solutions Architect for Digital Platforms**, March 2014 — July 2019
 
     **Standard Bank** (Johannesburg, South Africa)
     
-    I am currently working as a Solutions Architect for Digital Platforms at Standard Bank — the largest bank in Africa. This role requires me to find and implement solutions to complex business and technical problems on a daily basis. I work with business and engineering to deliver executable architectures for digital products on mobile- and web platforms.
+    I was part of the Solutions Architecture Team for Digital Platforms at Standard Bank — the largest bank in Africa. This role required me to find and implement solutions to complex business and technical problems on a daily basis. I worked with business and engineering to deliver executable architectures for digital products on mobile- and web platforms.
     
-    During my time in this role I've been very fortunate to work on some very interesting projects. Some examples of projects that I have worked on thus far: 
+    Projects that I had worked on:
     
-    -   I am currently looking at ways to migrate our digital channels and services to the public- and private clouds.
-    -   Also, currently investigating single sign-on solutions for all digital channels using OAuth2 and OpenID Connect.
+    -   Investigated methods and processes to migrate digital channels and services to public- and private clouds.
+    -   Researched single sign-on solutions (using OAuth2 and OpenID Connect) for all digital channels.
     -   Was part of a feature team to rethink, redesign and reimplement the entire home loans- and cheque account opening processes.
-    -   Helped architect and design a bill-payment solution for all corporate clients across Africa. 
+    -   Helped architect and design a bill-payment solution for all corporate clients across Africa.
     -   Was the lead Technical Designer for the core banking application replacement in Zambia.
     
-    Examples of some of my daily tasks are: Understanding and analysing functional and non-functional requirements; developing executable architectures; conceptual-, logical- and physical technical design; software development; prototyping of new technologies and processes; mentoring of junior team members.
+    Daily tasks included: Understanding and analysing functional and non-functional requirements; developing executable architectures; conceptual-, logical- and physical technical design; software development; prototyping of new technologies and processes; mentoring of junior team members.
     
-    Examples of some technologies I’ve used in this role: Amazon Web Services (AWS); Microsoft Azure; RedHat OpenShift; Kubernetes; Java; Spring Boot Framework; IBM DB2; Docker; Chef Configuration Management; Atlassian Bamboo; Atlassian Bitbucket; Git; Node.js; JavaScript; Sparx Enterprise Architect.
+    Technologies I’ve used in this role: Amazon Web Services (AWS); Microsoft Azure; RedHat OpenShift; Kubernetes; Java; Spring Boot Framework; IBM DB2; Docker; Chef Configuration Management; Atlassian Bamboo; Atlassian Bitbucket; Git; Node.js; JavaScript; Sparx Enterprise Architect.
 
 *   **Senior Software Engineer**, October 2012 — February 2014
 
@@ -36,7 +44,7 @@
     
     Worked as a consultant at Entelect Software on various projects:
     
-    -   First National Bank (December 2012 — February 2014) — Worked on site at FNB's Core Banking Solutions (CBS) division. 
+    -   First National Bank (December 2012 — February 2014) — Worked on site at FNB's Core Banking Solutions (CBS) division.
     
         I was part of the team responsible for rewriting FNB's entire Smart Devices system. The purpose of this system was to drive the entire order, delivery and tracking processes of FNB's Smart Devices division.
         
