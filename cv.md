@@ -12,7 +12,7 @@
 
 ## Work Experience
 
-*   **Solutions Architect - Identity**, August 2019 — Current
+*   **Solutions Architect (Identity Domain)**, August 2019 — Current
 
     **Backbase** (Amsterdam, Netherlands)
 
